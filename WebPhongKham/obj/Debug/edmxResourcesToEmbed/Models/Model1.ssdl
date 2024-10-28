@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="qlpkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BACSI">
+    <Key>
+      <PropertyRef Name="BacSiID" />
+    </Key>
+    <Property Name="BacSiID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenBS" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="ChuyenKhoaID" Type="int" Nullable="false" />
+    <Property Name="NgaySinhBS" Type="date" Nullable="false" />
+    <Property Name="GioiTinhBS" Type="nvarchar" MaxLength="5" />
+    <Property Name="SDTBS" Type="char" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CHITIETDONHANG">
+    <Key>
+      <PropertyRef Name="CTDHID" />
+    </Key>
+    <Property Name="CTDHID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DonHangID" Type="int" />
+    <Property Name="GoiKhamID" Type="int" />
+    <Property Name="SoLuongSP" Type="int" />
+    <Property Name="TongTien" Type="int" />
+  </EntityType>
+  <EntityType Name="CHUYENKHOA">
+    <Key>
+      <PropertyRef Name="ChuyenKhoaID" />
+    </Key>
+    <Property Name="ChuyenKhoaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenCK" Type="nvarchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DATLICH">
+    <Key>
+      <PropertyRef Name="DatLichID" />
+    </Key>
+    <Property Name="DatLichID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="NgaySinh" Type="date" Nullable="false" />
+    <Property Name="GioiTinh" Type="nvarchar" MaxLength="5" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SDT" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="ChuyenKhoaID" Type="int" Nullable="false" />
+    <Property Name="BacSiID" Type="int" Nullable="false" />
+    <Property Name="NgayKham" Type="date" />
+    <Property Name="GioKham" Type="time" Precision="7" />
+    <Property Name="XetNghiemID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DONHANG">
+    <Key>
+      <PropertyRef Name="DonHangID" />
+    </Key>
+    <Property Name="DonHangID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="SDT" Type="int" />
+    <Property Name="DiaChiNhan" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="GOIKHAM">
+    <Key>
+      <PropertyRef Name="GoiKhamID" />
+    </Key>
+    <Property Name="GoiKhamID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenGoiKham" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="ChiTietGK" Type="text" />
+    <Property Name="ChiPhi" Type="int" />
+    <Property Name="LGKID" Type="int" Nullable="false" />
+    <Property Name="Anh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="KEDONTHUOC">
+    <Key>
+      <PropertyRef Name="KeDonThuocID" />
+    </Key>
+    <Property Name="KeDonThuocID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="TenBenh" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="THUOCID" Type="int" Nullable="false" />
+    <Property Name="SoLuong" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KETQUA">
+    <Key>
+      <PropertyRef Name="KetQuaID" />
+    </Key>
+    <Property Name="KetQuaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDTK" Type="int" Nullable="false" />
+    <Property Name="MaDon" Type="char" MaxLength="5" />
+    <Property Name="HinhAnh" Type="varchar" MaxLength="50" />
+    <Property Name="ChiTiet" Type="text" />
+    <Property Name="KetLuan" Type="text" />
+  </EntityType>
+  <EntityType Name="LOAIGOIKHAM">
+    <Key>
+      <PropertyRef Name="LGKID" />
+    </Key>
+    <Property Name="LGKID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenLoaiGoiKham" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NGUOIDUNG">
+    <Key>
+      <PropertyRef Name="IDTK" />
+    </Key>
+    <Property Name="IDTK" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenUser" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="MatKhauUser" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="NgaySinhKH" Type="date" />
+    <Property Name="GioiTinhKH" Type="nvarchar" MaxLength="5" />
+    <Property Name="DiaChiKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="SDTKH" Type="char" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="THUOC">
+    <Key>
+      <PropertyRef Name="THUOCID" />
+    </Key>
+    <Property Name="THUOCID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENTHUOC" Type="nvarchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="XETNGHIEM">
+    <Key>
+      <PropertyRef Name="XetNghiemID" />
+    </Key>
+    <Property Name="XetNghiemID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenXetNghiem" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_DonHangID">
+    <End Role="DONHANG" Type="Self.DONHANG" Multiplicity="0..1" />
+    <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DONHANG">
+        <PropertyRef Name="DonHangID" />
+      </Principal>
+      <Dependent Role="CHITIETDONHANG">
+        <PropertyRef Name="DonHangID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GoiKhamID">
+    <End Role="GOIKHAM" Type="Self.GOIKHAM" Multiplicity="0..1" />
+    <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GOIKHAM">
+        <PropertyRef Name="GoiKhamID" />
+      </Principal>
+      <Dependent Role="CHITIETDONHANG">
+        <PropertyRef Name="GoiKhamID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IDTKKQ">
+    <End Role="NGUOIDUNG" Type="Self.NGUOIDUNG" Multiplicity="1" />
+    <End Role="KETQUA" Type="Self.KETQUA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NGUOIDUNG">
+        <PropertyRef Name="IDTK" />
+      </Principal>
+      <Dependent Role="KETQUA">
+        <PropertyRef Name="IDTK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaBSDL">
+    <End Role="BACSI" Type="Self.BACSI" Multiplicity="1" />
+    <End Role="DATLICH" Type="Self.DATLICH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BACSI">
+        <PropertyRef Name="BacSiID" />
+      </Principal>
+      <Dependent Role="DATLICH">
+        <PropertyRef Name="BacSiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaCKBS">
+    <End Role="CHUYENKHOA" Type="Self.CHUYENKHOA" Multiplicity="1" />
+    <End Role="BACSI" Type="Self.BACSI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHUYENKHOA">
+        <PropertyRef Name="ChuyenKhoaID" />
+      </Principal>
+      <Dependent Role="BACSI">
+        <PropertyRef Name="ChuyenKhoaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaLGKGK">
+    <End Role="LOAIGOIKHAM" Type="Self.LOAIGOIKHAM" Multiplicity="1" />
+    <End Role="GOIKHAM" Type="Self.GOIKHAM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAIGOIKHAM">
+        <PropertyRef Name="LGKID" />
+      </Principal>
+      <Dependent Role="GOIKHAM">
+        <PropertyRef Name="LGKID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THUOCID">
+    <End Role="THUOC" Type="Self.THUOC" Multiplicity="1" />
+    <End Role="KEDONTHUOC" Type="Self.KEDONTHUOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="THUOC">
+        <PropertyRef Name="THUOCID" />
+      </Principal>
+      <Dependent Role="KEDONTHUOC">
+        <PropertyRef Name="THUOCID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_XetNghiemID">
+    <End Role="XETNGHIEM" Type="Self.XETNGHIEM" Multiplicity="1" />
+    <End Role="DATLICH" Type="Self.DATLICH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="XETNGHIEM">
+        <PropertyRef Name="XetNghiemID" />
+      </Principal>
+      <Dependent Role="DATLICH">
+        <PropertyRef Name="XetNghiemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="qlpkModelStoreContainer">
+    <EntitySet Name="BACSI" EntityType="Self.BACSI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CHITIETDONHANG" EntityType="Self.CHITIETDONHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CHUYENKHOA" EntityType="Self.CHUYENKHOA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DATLICH" EntityType="Self.DATLICH" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DONHANG" EntityType="Self.DONHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GOIKHAM" EntityType="Self.GOIKHAM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KEDONTHUOC" EntityType="Self.KEDONTHUOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KETQUA" EntityType="Self.KETQUA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOAIGOIKHAM" EntityType="Self.LOAIGOIKHAM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NGUOIDUNG" EntityType="Self.NGUOIDUNG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="THUOC" EntityType="Self.THUOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="XETNGHIEM" EntityType="Self.XETNGHIEM" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DonHangID" Association="Self.FK_DonHangID">
+      <End Role="DONHANG" EntitySet="DONHANG" />
+      <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GoiKhamID" Association="Self.FK_GoiKhamID">
+      <End Role="GOIKHAM" EntitySet="GOIKHAM" />
+      <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IDTKKQ" Association="Self.FK_IDTKKQ">
+      <End Role="NGUOIDUNG" EntitySet="NGUOIDUNG" />
+      <End Role="KETQUA" EntitySet="KETQUA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaBSDL" Association="Self.FK_MaBSDL">
+      <End Role="BACSI" EntitySet="BACSI" />
+      <End Role="DATLICH" EntitySet="DATLICH" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaCKBS" Association="Self.FK_MaCKBS">
+      <End Role="CHUYENKHOA" EntitySet="CHUYENKHOA" />
+      <End Role="BACSI" EntitySet="BACSI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaLGKGK" Association="Self.FK_MaLGKGK">
+      <End Role="LOAIGOIKHAM" EntitySet="LOAIGOIKHAM" />
+      <End Role="GOIKHAM" EntitySet="GOIKHAM" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THUOCID" Association="Self.FK_THUOCID">
+      <End Role="THUOC" EntitySet="THUOC" />
+      <End Role="KEDONTHUOC" EntitySet="KEDONTHUOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_XetNghiemID" Association="Self.FK_XetNghiemID">
+      <End Role="XETNGHIEM" EntitySet="XETNGHIEM" />
+      <End Role="DATLICH" EntitySet="DATLICH" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

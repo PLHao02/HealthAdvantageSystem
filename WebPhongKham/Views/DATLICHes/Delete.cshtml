@@ -1,0 +1,110 @@
+﻿@model WebPhongKham.Models.DATLICH
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style>
+    .btn btn-default {
+        text-decoration: underline;
+    }
+</style>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>XÓA LỊCH HẸN</h2>
+
+                        <h3>Bạn có chắc muốn xoá lịch hẹn không ?</h3>
+                        <div>
+                            <hr />
+                            <dl class="dl-horizontal">
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.TenKH)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.TenKH)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.NgaySinh)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.NgaySinh)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.GioiTinh)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.GioiTinh)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.DiaChi)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.DiaChi)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.SDT)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.SDT)
+                                </dd>
+
+                               
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.NgayKham)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.NgayKham)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.GioKham)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.GioKham)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.BACSI.TenBS)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.BACSI.TenBS)
+                                </dd>
+
+                            </dl>
+
+                            @using (Html.BeginForm())
+                            {
+                                @Html.AntiForgeryToken()
+
+
+                                <div class="form-actions no-color">
+                                    <input type="submit" value="Huỷ" class="btn btn-default" />
+                                    | @Html.ActionLink("Quay về", "Index")
+                                </div>
+                            }
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

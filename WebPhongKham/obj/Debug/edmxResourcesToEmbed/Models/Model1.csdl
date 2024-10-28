@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="qlpkModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BACSI">
+    <Key>
+      <PropertyRef Name="BacSiID" />
+    </Key>
+    <Property Name="BacSiID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenBS" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ChuyenKhoaID" Type="Int32" Nullable="false" />
+    <Property Name="NgaySinhBS" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="GioiTinhBS" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="SDTBS" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DATLICHes" Relationship="Self.FK_MaBSDL" FromRole="BACSI" ToRole="DATLICH" />
+    <NavigationProperty Name="CHUYENKHOA" Relationship="Self.FK_MaCKBS" FromRole="BACSI" ToRole="CHUYENKHOA" />
+  </EntityType>
+  <EntityType Name="CHITIETDONHANG">
+    <Key>
+      <PropertyRef Name="CTDHID" />
+    </Key>
+    <Property Name="CTDHID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DonHangID" Type="Int32" />
+    <Property Name="GoiKhamID" Type="Int32" />
+    <Property Name="SoLuongSP" Type="Int32" />
+    <Property Name="TongTien" Type="Int32" />
+    <NavigationProperty Name="DONHANG" Relationship="Self.FK_DonHangID" FromRole="CHITIETDONHANG" ToRole="DONHANG" />
+    <NavigationProperty Name="GOIKHAM" Relationship="Self.FK_GoiKhamID" FromRole="CHITIETDONHANG" ToRole="GOIKHAM" />
+  </EntityType>
+  <EntityType Name="CHUYENKHOA">
+    <Key>
+      <PropertyRef Name="ChuyenKhoaID" />
+    </Key>
+    <Property Name="ChuyenKhoaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenCK" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="BACSIs" Relationship="Self.FK_MaCKBS" FromRole="CHUYENKHOA" ToRole="BACSI" />
+  </EntityType>
+  <EntityType Name="DATLICH">
+    <Key>
+      <PropertyRef Name="DatLichID" />
+    </Key>
+    <Property Name="DatLichID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenKH" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NgaySinh" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="GioiTinh" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SDT" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ChuyenKhoaID" Type="Int32" Nullable="false" />
+    <Property Name="BacSiID" Type="Int32" Nullable="false" />
+    <Property Name="NgayKham" Type="DateTime" Precision="0" />
+    <Property Name="GioKham" Type="Time" Precision="7" />
+    <Property Name="XetNghiemID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BACSI" Relationship="Self.FK_MaBSDL" FromRole="DATLICH" ToRole="BACSI" />
+    <NavigationProperty Name="XETNGHIEM" Relationship="Self.FK_XetNghiemID" FromRole="DATLICH" ToRole="XETNGHIEM" />
+  </EntityType>
+  <EntityType Name="DONHANG">
+    <Key>
+      <PropertyRef Name="DonHangID" />
+    </Key>
+    <Property Name="DonHangID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="Int32" />
+    <Property Name="DiaChiNhan" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CHITIETDONHANGs" Relationship="Self.FK_DonHangID" FromRole="DONHANG" ToRole="CHITIETDONHANG" />
+  </EntityType>
+  <EntityType Name="GOIKHAM">
+    <Key>
+      <PropertyRef Name="GoiKhamID" />
+    </Key>
+    <Property Name="GoiKhamID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenGoiKham" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ChiTietGK" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ChiPhi" Type="Int32" />
+    <Property Name="LGKID" Type="Int32" Nullable="false" />
+    <Property Name="Anh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CHITIETDONHANGs" Relationship="Self.FK_GoiKhamID" FromRole="GOIKHAM" ToRole="CHITIETDONHANG" />
+    <NavigationProperty Name="LOAIGOIKHAM" Relationship="Self.FK_MaLGKGK" FromRole="GOIKHAM" ToRole="LOAIGOIKHAM" />
+  </EntityType>
+  <EntityType Name="KEDONTHUOC">
+    <Key>
+      <PropertyRef Name="KeDonThuocID" />
+    </Key>
+    <Property Name="KeDonThuocID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenKH" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenBenh" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="THUOCID" Type="Int32" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="THUOC" Relationship="Self.FK_THUOCID" FromRole="KEDONTHUOC" ToRole="THUOC" />
+  </EntityType>
+  <EntityType Name="KETQUA">
+    <Key>
+      <PropertyRef Name="KetQuaID" />
+    </Key>
+    <Property Name="KetQuaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDTK" Type="Int32" Nullable="false" />
+    <Property Name="MaDon" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="HinhAnh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ChiTiet" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="KetLuan" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="NGUOIDUNG" Relationship="Self.FK_IDTKKQ" FromRole="KETQUA" ToRole="NGUOIDUNG" />
+  </EntityType>
+  <EntityType Name="LOAIGOIKHAM">
+    <Key>
+      <PropertyRef Name="LGKID" />
+    </Key>
+    <Property Name="LGKID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenLoaiGoiKham" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="GOIKHAMs" Relationship="Self.FK_MaLGKGK" FromRole="LOAIGOIKHAM" ToRole="GOIKHAM" />
+  </EntityType>
+  <EntityType Name="NGUOIDUNG">
+    <Key>
+      <PropertyRef Name="IDTK" />
+    </Key>
+    <Property Name="IDTK" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenUser" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MatKhauUser" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NgaySinhKH" Type="DateTime" Precision="0" />
+    <Property Name="GioiTinhKH" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChiKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDTKH" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="KETQUAs" Relationship="Self.FK_IDTKKQ" FromRole="NGUOIDUNG" ToRole="KETQUA" />
+  </EntityType>
+  <EntityType Name="THUOC">
+    <Key>
+      <PropertyRef Name="THUOCID" />
+    </Key>
+    <Property Name="THUOCID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TENTHUOC" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="KEDONTHUOCs" Relationship="Self.FK_THUOCID" FromRole="THUOC" ToRole="KEDONTHUOC" />
+  </EntityType>
+  <EntityType Name="XETNGHIEM">
+    <Key>
+      <PropertyRef Name="XetNghiemID" />
+    </Key>
+    <Property Name="XetNghiemID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenXetNghiem" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="DATLICHes" Relationship="Self.FK_XetNghiemID" FromRole="XETNGHIEM" ToRole="DATLICH" />
+  </EntityType>
+  <Association Name="FK_MaBSDL">
+    <End Role="BACSI" Type="Self.BACSI" Multiplicity="1" />
+    <End Role="DATLICH" Type="Self.DATLICH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BACSI">
+        <PropertyRef Name="BacSiID" />
+      </Principal>
+      <Dependent Role="DATLICH">
+        <PropertyRef Name="BacSiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaCKBS">
+    <End Role="CHUYENKHOA" Type="Self.CHUYENKHOA" Multiplicity="1" />
+    <End Role="BACSI" Type="Self.BACSI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHUYENKHOA">
+        <PropertyRef Name="ChuyenKhoaID" />
+      </Principal>
+      <Dependent Role="BACSI">
+        <PropertyRef Name="ChuyenKhoaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DonHangID">
+    <End Role="DONHANG" Type="Self.DONHANG" Multiplicity="0..1" />
+    <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DONHANG">
+        <PropertyRef Name="DonHangID" />
+      </Principal>
+      <Dependent Role="CHITIETDONHANG">
+        <PropertyRef Name="DonHangID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GoiKhamID">
+    <End Role="GOIKHAM" Type="Self.GOIKHAM" Multiplicity="0..1" />
+    <End Role="CHITIETDONHANG" Type="Self.CHITIETDONHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GOIKHAM">
+        <PropertyRef Name="GoiKhamID" />
+      </Principal>
+      <Dependent Role="CHITIETDONHANG">
+        <PropertyRef Name="GoiKhamID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_XetNghiemID">
+    <End Role="XETNGHIEM" Type="Self.XETNGHIEM" Multiplicity="1" />
+    <End Role="DATLICH" Type="Self.DATLICH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="XETNGHIEM">
+        <PropertyRef Name="XetNghiemID" />
+      </Principal>
+      <Dependent Role="DATLICH">
+        <PropertyRef Name="XetNghiemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaLGKGK">
+    <End Role="LOAIGOIKHAM" Type="Self.LOAIGOIKHAM" Multiplicity="1" />
+    <End Role="GOIKHAM" Type="Self.GOIKHAM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAIGOIKHAM">
+        <PropertyRef Name="LGKID" />
+      </Principal>
+      <Dependent Role="GOIKHAM">
+        <PropertyRef Name="LGKID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THUOCID">
+    <End Role="THUOC" Type="Self.THUOC" Multiplicity="1" />
+    <End Role="KEDONTHUOC" Type="Self.KEDONTHUOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="THUOC">
+        <PropertyRef Name="THUOCID" />
+      </Principal>
+      <Dependent Role="KEDONTHUOC">
+        <PropertyRef Name="THUOCID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IDTKKQ">
+    <End Role="NGUOIDUNG" Type="Self.NGUOIDUNG" Multiplicity="1" />
+    <End Role="KETQUA" Type="Self.KETQUA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NGUOIDUNG">
+        <PropertyRef Name="IDTK" />
+      </Principal>
+      <Dependent Role="KETQUA">
+        <PropertyRef Name="IDTK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="qlpkEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BACSIs" EntityType="Self.BACSI" />
+    <EntitySet Name="CHITIETDONHANGs" EntityType="Self.CHITIETDONHANG" />
+    <EntitySet Name="CHUYENKHOAs" EntityType="Self.CHUYENKHOA" />
+    <EntitySet Name="DATLICHes" EntityType="Self.DATLICH" />
+    <EntitySet Name="DONHANGs" EntityType="Self.DONHANG" />
+    <EntitySet Name="GOIKHAMs" EntityType="Self.GOIKHAM" />
+    <EntitySet Name="KEDONTHUOCs" EntityType="Self.KEDONTHUOC" />
+    <EntitySet Name="KETQUAs" EntityType="Self.KETQUA" />
+    <EntitySet Name="LOAIGOIKHAMs" EntityType="Self.LOAIGOIKHAM" />
+    <EntitySet Name="NGUOIDUNGs" EntityType="Self.NGUOIDUNG" />
+    <EntitySet Name="THUOCs" EntityType="Self.THUOC" />
+    <EntitySet Name="XETNGHIEMs" EntityType="Self.XETNGHIEM" />
+    <AssociationSet Name="FK_MaBSDL" Association="Self.FK_MaBSDL">
+      <End Role="BACSI" EntitySet="BACSIs" />
+      <End Role="DATLICH" EntitySet="DATLICHes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaCKBS" Association="Self.FK_MaCKBS">
+      <End Role="CHUYENKHOA" EntitySet="CHUYENKHOAs" />
+      <End Role="BACSI" EntitySet="BACSIs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DonHangID" Association="Self.FK_DonHangID">
+      <End Role="DONHANG" EntitySet="DONHANGs" />
+      <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANGs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GoiKhamID" Association="Self.FK_GoiKhamID">
+      <End Role="GOIKHAM" EntitySet="GOIKHAMs" />
+      <End Role="CHITIETDONHANG" EntitySet="CHITIETDONHANGs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_XetNghiemID" Association="Self.FK_XetNghiemID">
+      <End Role="XETNGHIEM" EntitySet="XETNGHIEMs" />
+      <End Role="DATLICH" EntitySet="DATLICHes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaLGKGK" Association="Self.FK_MaLGKGK">
+      <End Role="LOAIGOIKHAM" EntitySet="LOAIGOIKHAMs" />
+      <End Role="GOIKHAM" EntitySet="GOIKHAMs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THUOCID" Association="Self.FK_THUOCID">
+      <End Role="THUOC" EntitySet="THUOCs" />
+      <End Role="KEDONTHUOC" EntitySet="KEDONTHUOCs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IDTKKQ" Association="Self.FK_IDTKKQ">
+      <End Role="NGUOIDUNG" EntitySet="NGUOIDUNGs" />
+      <End Role="KETQUA" EntitySet="KETQUAs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

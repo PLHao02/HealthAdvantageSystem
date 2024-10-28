@@ -1,0 +1,77 @@
+﻿@model WebPhongKham.Models.BACSI
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>XÓA THÔNG TIN BÁC SĨ</h2>
+                        <div>
+                            <hr />
+                            <dl class="dl-horizontal">
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.TenBS)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.TenBS)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.NgaySinhBS)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.NgaySinhBS)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.GioiTinhBS)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.GioiTinhBS)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.SDTBS)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.SDTBS)
+                                </dd>
+
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.CHUYENKHOA.TenCK)
+                                </dt>
+
+                                <dd>
+                                    @Html.DisplayFor(model => model.CHUYENKHOA.TenCK)
+                                </dd>
+
+                            </dl>
+
+                            @using (Html.BeginForm())
+                            {
+                                @Html.AntiForgeryToken()
+
+                                <div class="form-actions no-color">
+                                    <u>
+                                        <input type="submit" value="Delete" class="btn btn-default" />
+                                    </u>
+
+                                    @Html.ActionLink("Back to List", "Index")
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="54ed6dcc90864294994d024489b6907a" Name="Diagram1">
+        <EntityTypeShape EntityType="qlpkModel.BACSI" Width="1.5" PointX="8" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.CHITIETDONHANG" Width="1.5" PointX="5.875" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.CHUYENKHOA" Width="1.5" PointX="5.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.DATLICH" Width="1.5" PointX="10.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.DONHANG" Width="1.5" PointX="2.875" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.GOIKHAM" Width="1.5" PointX="2.875" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.KEDONTHUOC" Width="1.5" PointX="3" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.KETQUA" Width="1.5" PointX="8.375" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.LOAIGOIKHAM" Width="1.5" PointX="0.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.NGUOIDUNG" Width="1.5" PointX="5.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.THUOC" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="qlpkModel.XETNGHIEM" Width="1.5" PointX="8" PointY="3" IsExpanded="true" />
+        <AssociationConnector Association="qlpkModel.FK_MaBSDL" ManuallyRouted="false" />
+        <AssociationConnector Association="qlpkModel.FK_MaCKBS" ManuallyRouted="false" />
+        <AssociationConnector Association="qlpkModel.FK_DonHangID" ManuallyRouted="false" />
+        <AssociationConnector Association="qlpkModel.FK_GoiKhamID" ManuallyRouted="false" />
+        <AssociationConnector Association="qlpkModel.FK_XetNghiemID" ManuallyRouted="false" />
+        <AssociationConnector Association="qlpkModel.FK_MaLGKGK" ManuallyRouted="false" />
+        <AssociationConnector Association="qlpkModel.FK_THUOCID" ManuallyRouted="false" />
+        <AssociationConnector Association="qlpkModel.FK_IDTKKQ" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

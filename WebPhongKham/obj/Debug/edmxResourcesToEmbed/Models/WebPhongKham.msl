@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="qlpkModelStoreContainer" CdmEntityContainer="qlpkEntities2">
+    <EntitySetMapping Name="BACSIs">
+      <EntityTypeMapping TypeName="qlpkModel.BACSI">
+        <MappingFragment StoreEntitySet="BACSI">
+          <ScalarProperty Name="MaBS" ColumnName="MaBS" />
+          <ScalarProperty Name="TenBS" ColumnName="TenBS" />
+          <ScalarProperty Name="MaCK" ColumnName="MaCK" />
+          <ScalarProperty Name="NgaySinhBS" ColumnName="NgaySinhBS" />
+          <ScalarProperty Name="GioiTinhBS" ColumnName="GioiTinhBS" />
+          <ScalarProperty Name="SDTBS" ColumnName="SDTBS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHUYENKHOAs">
+      <EntityTypeMapping TypeName="qlpkModel.CHUYENKHOA">
+        <MappingFragment StoreEntitySet="CHUYENKHOA">
+          <ScalarProperty Name="MaCK" ColumnName="MaCK" />
+          <ScalarProperty Name="TenCK" ColumnName="TenCK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GOIKHAMs">
+      <EntityTypeMapping TypeName="qlpkModel.GOIKHAM">
+        <MappingFragment StoreEntitySet="GOIKHAM">
+          <ScalarProperty Name="MaGK" ColumnName="MaGK" />
+          <ScalarProperty Name="TenGoiKham" ColumnName="TenGoiKham" />
+          <ScalarProperty Name="ChiTietGK" ColumnName="ChiTietGK" />
+          <ScalarProperty Name="ChiPhi" ColumnName="ChiPhi" />
+          <ScalarProperty Name="MaLGK" ColumnName="MaLGK" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACHHANGs">
+      <EntityTypeMapping TypeName="qlpkModel.KHACHHANG">
+        <MappingFragment StoreEntitySet="KHACHHANG">
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="NgaySinhKH" ColumnName="NgaySinhKH" />
+          <ScalarProperty Name="GioiTinhKH" ColumnName="GioiTinhKH" />
+          <ScalarProperty Name="DiaChiKH" ColumnName="DiaChiKH" />
+          <ScalarProperty Name="SDTKH" ColumnName="SDTKH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LICHKHACHHANGs">
+      <EntityTypeMapping TypeName="qlpkModel.LICHKHACHHANG">
+        <MappingFragment StoreEntitySet="LICHKHACHHANG">
+          <ScalarProperty Name="MaLKH" ColumnName="MaLKH" />
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="NgayRanh" ColumnName="NgayRanh" />
+          <ScalarProperty Name="GioRanh" ColumnName="GioRanh" />
+          <ScalarProperty Name="MaCK" ColumnName="MaCK" />
+          <ScalarProperty Name="MaBS" ColumnName="MaBS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAIGOIKHAMs">
+      <EntityTypeMapping TypeName="qlpkModel.LOAIGOIKHAM">
+        <MappingFragment StoreEntitySet="LOAIGOIKHAM">
+          <ScalarProperty Name="MaLGK" ColumnName="MaLGK" />
+          <ScalarProperty Name="TenLoaiGoiKham" ColumnName="TenLoaiGoiKham" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NGUOIDUNGs">
+      <EntityTypeMapping TypeName="qlpkModel.NGUOIDUNG">
+        <MappingFragment StoreEntitySet="NGUOIDUNG">
+          <ScalarProperty Name="IDTK" ColumnName="IDTK" />
+          <ScalarProperty Name="TenUser" ColumnName="TenUser" />
+          <ScalarProperty Name="MatKhauUser" ColumnName="MatKhauUser" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

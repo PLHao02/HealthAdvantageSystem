@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="qlpkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BACSI">
+    <Key>
+      <PropertyRef Name="MaBS" />
+    </Key>
+    <Property Name="MaBS" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenBS" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="MaCK" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="NgaySinhBS" Type="date" Nullable="false" />
+    <Property Name="GioiTinhBS" Type="nvarchar" MaxLength="5" />
+    <Property Name="SDTBS" Type="char" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CHUYENKHOA">
+    <Key>
+      <PropertyRef Name="MaCK" />
+    </Key>
+    <Property Name="MaCK" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenCK" Type="nvarchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GOIKHAM">
+    <Key>
+      <PropertyRef Name="MaGK" />
+    </Key>
+    <Property Name="MaGK" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenGoiKham" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="ChiTietGK" Type="text" />
+    <Property Name="ChiPhi" Type="int" />
+    <Property Name="MaLGK" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="Anh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="KETQUA">
+    <Key>
+      <PropertyRef Name="MaKQ" />
+    </Key>
+    <Property Name="MaKQ" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="MaKH" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="MaDon" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HinhAnh" Type="varchar" MaxLength="50" />
+    <Property Name="ChiTiet" Type="text" Nullable="false" />
+    <Property Name="KetLuan" Type="text" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="NgaySinhKH" Type="date" Nullable="false" />
+    <Property Name="GioiTinhKH" Type="nvarchar" MaxLength="5" />
+    <Property Name="DiaChiKH" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SDTKH" Type="char" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LICHKHACHHANG">
+    <Key>
+      <PropertyRef Name="MaLKH" />
+    </Key>
+    <Property Name="MaLKH" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaKH" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="NgayRanh" Type="date" />
+    <Property Name="GioRanh" Type="time" Precision="7" />
+    <Property Name="MaCK" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="MaBS" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LOAIGOIKHAM">
+    <Key>
+      <PropertyRef Name="MaLGK" />
+    </Key>
+    <Property Name="MaLGK" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenLoaiGoiKham" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NGUOIDUNG">
+    <Key>
+      <PropertyRef Name="IDTK" />
+    </Key>
+    <Property Name="IDTK" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenUser" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="MatKhauUser" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_MaBS">
+    <End Role="BACSI" Type="Self.BACSI" Multiplicity="1" />
+    <End Role="LICHKHACHHANG" Type="Self.LICHKHACHHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BACSI">
+        <PropertyRef Name="MaBS" />
+      </Principal>
+      <Dependent Role="LICHKHACHHANG">
+        <PropertyRef Name="MaBS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaCK">
+    <End Role="CHUYENKHOA" Type="Self.CHUYENKHOA" Multiplicity="1" />
+    <End Role="BACSI" Type="Self.BACSI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHUYENKHOA">
+        <PropertyRef Name="MaCK" />
+      </Principal>
+      <Dependent Role="BACSI">
+        <PropertyRef Name="MaCK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaKH">
+    <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="1" />
+    <End Role="LICHKHACHHANG" Type="Self.LICHKHACHHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANG">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="LICHKHACHHANG">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaKHKQ">
+    <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="1" />
+    <End Role="KETQUA" Type="Self.KETQUA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANG">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="KETQUA">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaLGKGK">
+    <End Role="LOAIGOIKHAM" Type="Self.LOAIGOIKHAM" Multiplicity="1" />
+    <End Role="GOIKHAM" Type="Self.GOIKHAM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAIGOIKHAM">
+        <PropertyRef Name="MaLGK" />
+      </Principal>
+      <Dependent Role="GOIKHAM">
+        <PropertyRef Name="MaLGK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="qlpkModelStoreContainer">
+    <EntitySet Name="BACSI" EntityType="Self.BACSI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CHUYENKHOA" EntityType="Self.CHUYENKHOA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GOIKHAM" EntityType="Self.GOIKHAM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KETQUA" EntityType="Self.KETQUA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KHACHHANG" EntityType="Self.KHACHHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LICHKHACHHANG" EntityType="Self.LICHKHACHHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOAIGOIKHAM" EntityType="Self.LOAIGOIKHAM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NGUOIDUNG" EntityType="Self.NGUOIDUNG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_MaBS" Association="Self.FK_MaBS">
+      <End Role="BACSI" EntitySet="BACSI" />
+      <End Role="LICHKHACHHANG" EntitySet="LICHKHACHHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaCK" Association="Self.FK_MaCK">
+      <End Role="CHUYENKHOA" EntitySet="CHUYENKHOA" />
+      <End Role="BACSI" EntitySet="BACSI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaKH" Association="Self.FK_MaKH">
+      <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+      <End Role="LICHKHACHHANG" EntitySet="LICHKHACHHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaKHKQ" Association="Self.FK_MaKHKQ">
+      <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+      <End Role="KETQUA" EntitySet="KETQUA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaLGKGK" Association="Self.FK_MaLGKGK">
+      <End Role="LOAIGOIKHAM" EntitySet="LOAIGOIKHAM" />
+      <End Role="GOIKHAM" EntitySet="GOIKHAM" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

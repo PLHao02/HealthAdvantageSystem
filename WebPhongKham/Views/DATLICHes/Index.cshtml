@@ -1,0 +1,119 @@
+﻿@model IEnumerable<WebPhongKham.Models.DATLICH>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    .form-control {
+        display: initial;
+        width: 20%;
+    }
+
+    .form-group {
+        display: flex;
+        justify-content: right;
+    }
+</style>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>QUẢN LÝ LỊCH CỦA KHÁCH HÀNG VÀ BÁC SĨ</h2>
+                        @using (Html.BeginForm("Index", "DATLICHes", FormMethod.Get, new { @class = "form-inline" }))
+                        {
+                            <div class="form-group">
+                                <input type="Text" class="form-control" value="@ViewBag.Keyword" name="searchString" placeholder="Nhập tên khách hàng cần tìm">
+                                <input type="submit" class="btn btn-warning" value="Tìm">
+                            </div>
+                        }
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>
+                                    <a>Tên khách hàng</a>
+                                </th>
+                                <th>
+                                    <a>Xét nghiệm</a>
+                                </th>
+                                <th>
+                                    <a>Ngày sinh</a>
+                                </th>
+                                <th>
+                                    <a> Giới tính </a>
+                                </th>
+                                <th>
+                                    <a>Địa chỉ</a>
+                                </th>
+                                <th>
+                                    <a>Số điện thoại</a>
+                                </th>
+                                <th>
+                                    <a>Chuyên khoa</a>
+                                </th>
+                                <th>
+                                    <a>Bác sĩ</a>
+                                </th>
+                                <th>
+                                    <a>Ngày khám</a>
+                                </th>
+                                <th>
+                                    <a>Giờ khám</a>
+                                </th>
+                                <th></th>
+                            </tr>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TenKH)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.XETNGHIEM.TenXetNghiem)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NgaySinh)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.GioiTinh)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DiaChi)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SDT)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.BACSI.CHUYENKHOA.TenCK)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.BACSI.TenBS)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NgayKham)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.GioKham)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Sửa", "Edit", new { id = item.DatLichID })    |
+                                        @Html.ActionLink("Huỷ", "Delete", new { id = item.DatLichID })
+                                    </td>
+                                </tr>
+                            }
+
+                        </table>
+                        <br />
+                        <br />
+                        <p>
+                            @Html.ActionLink("Đặt lịch mới ", "AdminCreate")
+                        </p>
+                    </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div>

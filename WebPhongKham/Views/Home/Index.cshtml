@@ -1,0 +1,166 @@
+﻿
+    <div>
+        @{
+            ViewBag.Title = "Home Page";
+        }
+        <style>
+            
+            .container .slick-slider{
+                padding: 0 4rem;
+            }
+            .slick-prev {
+                position: absolute;
+                display: block;
+                top: 50%;
+                left: 0;
+                width: 40px;
+                height: 40px;
+                border: 1px solid #d5d5d5;
+                border-radius: 50%;
+                background-color: #fff;
+            }
+            .slick-next {
+                position: absolute;
+                display: block;
+                top: 50%;
+                right: 0;
+                width: 40px;
+                height: 40px;
+                border: 1px solid #d5d5d5;
+                border-radius: 50%;
+                background-color: #fff;
+            }            
+            .image-slider-card {
+                border: none;
+            }
+            .image-slider-card-body{
+                padding: 0;
+            }
+            .body-content{
+                padding-left: 30px;
+                padding-right: 30px;
+            }
+            .sub-title{
+                width: 50%;
+                text-align: center;
+                
+            }
+            .mx-auto{
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .line{
+                display: block;
+            }
+            .pd-slick{
+                padding: 0 8rem;
+                margin-top: 30px;
+            }
+            
+        </style>
+        <div class="container body-content">
+            <h2 style="font-weight: bold; margin-top: 30px; text-align: center">Tin mới nhất</h2>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="image-slider">
+                        <div class="col">
+                            <div class="card image-slider-card" style="width: 18rem;">
+                                <a href="#"><img src="~/Image/banner-4.jpeg" class="card-img-top" alt="..."></a>       
+                                <div class="card-body image-slider-card-body">
+                                    <a href="#" style="text-decoration: none; color: orangered"><h6 class="card-title" style="font-weight: bold">Tin tức</h6></a>
+                                    <a href="#" style="text-decoration: none; font-size: 11px; color: #0033CC;"><p class="card-text" style="font-weight: bold">Thông báo lịch làm việc ngoài giờ tại phòng khám CarePlus</p>  </a>
+                                                                   
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card image-slider-card" style="width: 18rem;">
+                                <a href="#"><img src="~/Image/banner-5.png" class="card-img-top" alt="..."></a>
+                                <div class="card-body image-slider-card-body">
+                                    <a href="#" style="text-decoration: none; color: orangered"><h6 class="card-title" style="font-weight: bold">Tin tức</h6></a>
+                                    <a href="#" style="text-decoration: none; font-size: 11px; color: #0033CC;"><p class="card-text" style="font-weight: bold">Hơn 2.5 triệu người Việt không biết mình mắc bệnh tiểu đường: Bạn có nằm trong số đó?"</p></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card image-slider-card" style="width: 18rem;">
+                                <a href="#"><img src="~/Image/banner-6.jpeg" class="card-img-top" alt="..."></a>
+                                <div class="card-body image-slider-card-body">
+                                    <a href="#" style="text-decoration: none; color: orangered"><h6 class="card-title" style="font-weight: bold">Tin tức</h6></a>
+                                    <a href="#" style="text-decoration: none; font-size: 11px; color: #0033CC;"><p class="card-text" style="font-weight: bold">Sức khỏe và giáo dục nền tảng sự phát triển cho thế hệ tương lai </p>  </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card image-slider-card" style="width: 18rem;">
+                                <a href="#"><img src="~/Image/banner-7.jpeg" style="height:270px;"s class="card-img-top" alt="..."></a>
+                                <div class="card-body image-slider-card-body">
+                                    <a href="#" style="text-decoration: none; color: orangered"><h6 class="card-title" style="font-weight: bold">Tin tức</h6></a>
+                                    <a href="#" style="text-decoration: none; font-size: 11px; color: #0033CC;"><p class="card-text" style="font-weight: bold">Khám sức khoẻ xin giấy phép lao động chưa bao giờ dễ dàng hơn tại CarePlus</p>  </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card image-slider-card" style="width: 18rem;">
+                                <a href="#"><img src="~/Image/banner-8.jpeg" class="card-img-top" alt="..."></a>
+                                <div class="card-body image-slider-card-body">
+                                    <a href="#" style="text-decoration: none; color: orangered"><h6 class="card-title" style="font-weight: bold">Tin tức</h6></a>
+                                    <a href="#" style="text-decoration: none; font-size: 11px; color: #0033CC;"><p class="card-text" style="font-weight: bold">Hệ thống phòng khám CarePlus đạt giải thưởng doanh nghiệp xuất sắc  do Asia Pacific Enterprise Awards 2022 trao tặng</p>  </a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="background-color: #e5eef4; height: 420px; margin-top: 50px ">
+            <div class="row">
+                <div class="col-12">
+                    <h3 style="text-align: center; font-weight: bold; margin-top:30px">CHÚNG TÔI CÓ SỰ KHÁC BIỆT</h3>
+                    <p class="body-content sub-title mx-auto">
+                        <small class="line">
+                            Hệ thống phòng khám quốc tế CarePlus là nơi tinh hoa y học châu Âu hội tụ cùng sự ân cần, nồng hậu của người
+                            châu Á. Chúng tôi tạo ra một môi trường hiện đại, thoải mái, nơi bác sĩ là những người bạn thân của bạn, và bạn
+                            chính là trung tâm của dịch vụ chất lượng cao với giá phải chăng.
+                        </small>
+                    </p>
+                </div>
+                <div class="container body-content pd-slick">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="image-slider">
+                                <div class="col">
+                                    <div class="card image-slider-card" style="width: 18rem;">
+                                        <img src="~/Image/banner-9.jpeg" class="card-img-top" alt="...">
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card" style="width: 18rem;">
+                                        <img src="~/Image/banner-10.jpeg" class="card-img-top" alt="...">
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card" style="width: 18rem;">
+                                        <img src="~/Image/banner-11.jpeg" style="height:200px" class="card-img-top" alt="...">
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card" style="width: 18rem;">
+                                        <img src="~/Image/banner-12.jpeg" class="card-img-top" alt="...">
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card" style="width: 18rem;">
+                                        <img src="~/Image/banner-13.jpeg" class="card-img-top" alt="...">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,91 @@
+﻿@model IEnumerable<WebPhongKham.Models.BACSI>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    .form-control {
+        display: initial;
+        width: 20%;
+    }
+
+    .form-group {
+        display: flex;
+        justify-content: right;
+    }
+</style>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>DANH SÁCH BÁC SĨ PHÒNG KHÁM</h2>
+                        @using (Html.BeginForm("Index", "BACSIs", FormMethod.Get, new { @class = "form-inline" }))
+                        {
+                            <div class="form-group">
+                                <input type="Text" class="form-control" value="@ViewBag.Keyword" name="searchString" placeholder="Nhập tên bác sĩ cần tìm">
+                                <input type="submit" class="btn btn-warning" value="Tìm">
+                            </div>
+                        }
+                        <table class="table">
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TenBS)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.NgaySinhBS)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.GioiTinhBS)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.SDTBS)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.CHUYENKHOA.TenCK)
+                                </th>
+                                <th></th>
+                            </tr>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TenBS)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NgaySinhBS)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.GioiTinhBS)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SDTBS)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.CHUYENKHOA.TenCK)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.BacSiID }) |
+                                        @Html.ActionLink("Details", "Details", new { id = item.BacSiID }) |
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.BacSiID })
+                                    </td>
+                                </tr>
+                            }
+
+                        </table>
+                        <br />
+                        <br />
+                        <p>
+                            @Html.ActionLink("Create New", "Create")
+                        </p>
+                    </div>
+
+                </div>
+             </div>
+        </div>
+    </div>
+</div>

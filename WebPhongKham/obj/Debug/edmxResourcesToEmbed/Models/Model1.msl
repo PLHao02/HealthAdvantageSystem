@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="qlpkModelStoreContainer" CdmEntityContainer="qlpkEntities2">
+    <EntitySetMapping Name="BACSIs">
+      <EntityTypeMapping TypeName="qlpkModel.BACSI">
+        <MappingFragment StoreEntitySet="BACSI">
+          <ScalarProperty Name="BacSiID" ColumnName="BacSiID" />
+          <ScalarProperty Name="TenBS" ColumnName="TenBS" />
+          <ScalarProperty Name="ChuyenKhoaID" ColumnName="ChuyenKhoaID" />
+          <ScalarProperty Name="NgaySinhBS" ColumnName="NgaySinhBS" />
+          <ScalarProperty Name="GioiTinhBS" ColumnName="GioiTinhBS" />
+          <ScalarProperty Name="SDTBS" ColumnName="SDTBS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETDONHANGs">
+      <EntityTypeMapping TypeName="qlpkModel.CHITIETDONHANG">
+        <MappingFragment StoreEntitySet="CHITIETDONHANG">
+          <ScalarProperty Name="CTDHID" ColumnName="CTDHID" />
+          <ScalarProperty Name="DonHangID" ColumnName="DonHangID" />
+          <ScalarProperty Name="GoiKhamID" ColumnName="GoiKhamID" />
+          <ScalarProperty Name="SoLuongSP" ColumnName="SoLuongSP" />
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHUYENKHOAs">
+      <EntityTypeMapping TypeName="qlpkModel.CHUYENKHOA">
+        <MappingFragment StoreEntitySet="CHUYENKHOA">
+          <ScalarProperty Name="ChuyenKhoaID" ColumnName="ChuyenKhoaID" />
+          <ScalarProperty Name="TenCK" ColumnName="TenCK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DATLICHes">
+      <EntityTypeMapping TypeName="qlpkModel.DATLICH">
+        <MappingFragment StoreEntitySet="DATLICH">
+          <ScalarProperty Name="DatLichID" ColumnName="DatLichID" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="ChuyenKhoaID" ColumnName="ChuyenKhoaID" />
+          <ScalarProperty Name="BacSiID" ColumnName="BacSiID" />
+          <ScalarProperty Name="NgayKham" ColumnName="NgayKham" />
+          <ScalarProperty Name="GioKham" ColumnName="GioKham" />
+          <ScalarProperty Name="XetNghiemID" ColumnName="XetNghiemID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DONHANGs">
+      <EntityTypeMapping TypeName="qlpkModel.DONHANG">
+        <MappingFragment StoreEntitySet="DONHANG">
+          <ScalarProperty Name="DonHangID" ColumnName="DonHangID" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChiNhan" ColumnName="DiaChiNhan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GOIKHAMs">
+      <EntityTypeMapping TypeName="qlpkModel.GOIKHAM">
+        <MappingFragment StoreEntitySet="GOIKHAM">
+          <ScalarProperty Name="GoiKhamID" ColumnName="GoiKhamID" />
+          <ScalarProperty Name="TenGoiKham" ColumnName="TenGoiKham" />
+          <ScalarProperty Name="ChiTietGK" ColumnName="ChiTietGK" />
+          <ScalarProperty Name="ChiPhi" ColumnName="ChiPhi" />
+          <ScalarProperty Name="LGKID" ColumnName="LGKID" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KEDONTHUOCs">
+      <EntityTypeMapping TypeName="qlpkModel.KEDONTHUOC">
+        <MappingFragment StoreEntitySet="KEDONTHUOC">
+          <ScalarProperty Name="KeDonThuocID" ColumnName="KeDonThuocID" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="TenBenh" ColumnName="TenBenh" />
+          <ScalarProperty Name="THUOCID" ColumnName="THUOCID" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KETQUAs">
+      <EntityTypeMapping TypeName="qlpkModel.KETQUA">
+        <MappingFragment StoreEntitySet="KETQUA">
+          <ScalarProperty Name="KetQuaID" ColumnName="KetQuaID" />
+          <ScalarProperty Name="IDTK" ColumnName="IDTK" />
+          <ScalarProperty Name="MaDon" ColumnName="MaDon" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+          <ScalarProperty Name="ChiTiet" ColumnName="ChiTiet" />
+          <ScalarProperty Name="KetLuan" ColumnName="KetLuan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAIGOIKHAMs">
+      <EntityTypeMapping TypeName="qlpkModel.LOAIGOIKHAM">
+        <MappingFragment StoreEntitySet="LOAIGOIKHAM">
+          <ScalarProperty Name="LGKID" ColumnName="LGKID" />
+          <ScalarProperty Name="TenLoaiGoiKham" ColumnName="TenLoaiGoiKham" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NGUOIDUNGs">
+      <EntityTypeMapping TypeName="qlpkModel.NGUOIDUNG">
+        <MappingFragment StoreEntitySet="NGUOIDUNG">
+          <ScalarProperty Name="IDTK" ColumnName="IDTK" />
+          <ScalarProperty Name="TenUser" ColumnName="TenUser" />
+          <ScalarProperty Name="MatKhauUser" ColumnName="MatKhauUser" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NgaySinhKH" ColumnName="NgaySinhKH" />
+          <ScalarProperty Name="GioiTinhKH" ColumnName="GioiTinhKH" />
+          <ScalarProperty Name="DiaChiKH" ColumnName="DiaChiKH" />
+          <ScalarProperty Name="SDTKH" ColumnName="SDTKH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="THUOCs">
+      <EntityTypeMapping TypeName="qlpkModel.THUOC">
+        <MappingFragment StoreEntitySet="THUOC">
+          <ScalarProperty Name="THUOCID" ColumnName="THUOCID" />
+          <ScalarProperty Name="TENTHUOC" ColumnName="TENTHUOC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="XETNGHIEMs">
+      <EntityTypeMapping TypeName="qlpkModel.XETNGHIEM">
+        <MappingFragment StoreEntitySet="XETNGHIEM">
+          <ScalarProperty Name="XetNghiemID" ColumnName="XetNghiemID" />
+          <ScalarProperty Name="TenXetNghiem" ColumnName="TenXetNghiem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

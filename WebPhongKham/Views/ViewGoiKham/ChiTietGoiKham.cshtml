@@ -1,0 +1,112 @@
+﻿@model  WebPhongKham.Models.GOIKHAM
+
+@{
+    ViewBag.Title = "ChiTietGoiKham";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .text-align-left {
+        text-align: left;
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+        .text-align-left::after {
+            content: "";
+            display: block;
+            border: 1px solid #fa7015;
+            width: 25%;
+            margin: 15px 0;
+            margin-right: auto;
+        }
+
+    .productDetailBox {
+        border: 2px solid orangered;
+        box-shadow: 2px 2px 6px #aaa;
+        font-size: 125%;
+    }
+
+    .border {
+        border: 1px solid #DDDDDD;
+        border-left: 0;
+        border-bottom: 0;
+        border-top: 0;
+    }
+
+    .btn {
+        background-color: orangered;
+        padding: 0.8rem;
+        color: white;
+        font-size: 0.9rem;
+    }
+
+        .btn:hover {
+            background-color: orangered;
+            color: white;
+        }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-8">
+            <h1 class="text-align-left" style="font-weight: bold">@Html.DisplayFor(model => model.TenGoiKham) </h1>
+            <img style="height: auto; width: 100%;" src="~/Image/goikham/@Url.Content(Model.Anh)" />
+            <div class="description">
+                <h3 style="text-align:justify; margin-top: 20px; line-height: 1.4">
+                    1. Ý nghĩa của Dịch vụ kiểm tra sàng lọc nguy cơ COVID-19 (đã bao gồm xét nghiệm nhanh kháng nguyên)?
+                </h3>
+                <p style="text-align:justify; font-size: 0.9rem; font-family:Arial; margin-top: 30px">
+                    Dịch vụ kiểm tra sàng lọc nguy cơ COVID-19 (đã bao gồm xét nghiệm nhanh kháng nguyên) giúp sàng lọc và phân loại người có nguy cơ cao bị nhiễm COVID-19.
+                    Xét nghiệm cũng giúp chúng ta sớm tìm ra sự tồn tại của virus SARS-COV-2 ngay cả khi cơ thể chưa có triệu chứng cụ thể, đồng thời cũng giúp mỗi người an tâm hơn về tình hình sức khỏe
+                    của mình, tránh nguy cơ lây nhiễm virus cho cộng đồng và gây ra những hậu quả đáng tiếc.
+                </p>
+
+                <p style="text-align: justify; font-size: 0.9rem; font-family: Arial; margin-top: 30px">
+                    Dịch vụ kiểm tra sàng lọc nguy cơ COVID-19 (đã bao gồm xét nghiệm nhanh kháng nguyên) có ưu điểm là thuận tiện khi sử dụng, cho kết quả nhanh chóng
+                    với chi phí tiết kiệm. Tuy nhiên, cần lưu ý mục đích của xét nghiệm nhanh kháng nguyên COVID-19 là PHÂN LOẠI NGƯỜI CÓ NGUY CƠ CAO BỊ NHIỄM COVID-19.
+                    Vì vậy, trường hợp nếu kết quả xét nghiệm dương tính không đồng nghĩa với việc khẳng định người đó bị nhiễm COVID-19, mà chỉ có ý nghĩa là người đó
+                    có nguy cơ cao bị nhiễm COVID-19.
+                </p>
+                <h3 style="text-align:justify; margin-top: 20px; line-height: 1.4">
+                    2. Chi phí thực hiện và Thời gian trả kết quả xét nghiệm?
+                </h3>
+                <p style="text-align: justify; font-size: 0.9rem; font-family: Arial; margin-top: 20px; font-weight: bold">
+                    - Phí dịch vụ xét nghiệm: chỉ 250,000vnđ/lần
+                </p>
+                <p style="text-align: justify; font-size: 0.9rem; font-family: Arial; margin-top: 20px;">
+                    - Kết quả xét nghiệm sẽ được trả trong vòng 60 phút. Ngoài ra, CarePlus sẽ cung cấp Phiếu
+                    kết quả xét nghiệm để Khách hàng có thể chủ động sử dụng cho mục đích cá nhân hoặc công việc.
+                </p>
+                <p style="text-align: justify; font-size: 0.9rem; font-family: Arial; margin-top: 20px;">
+                    - Hình thức trả kết quả: Sau khi lấy mẫu, khách hàng có thể quay trở về nhà để hạn chế việc tiếp xúc đông người.
+                    Phòng khám sẽ gửi kết quả xét nghiệm bản mềm (file pdf.) qua online (Email/Zalo/Viber/Whatsapp/...) trong vòng 60p
+                    cho khách hàng. Bản cứng sẽ được gửi về địa chỉ nhà cho khách hàng, hoặc khách hàng có thể quay lại phòng khám để lấy
+                    kết quả vào sáng hôm sau.
+                </p>
+            </div>
+            <div class="custom-mobile">
+                <div class="productDetailBox d-flex justify-content-around p-4">
+                    <div class="w-25 d-flex justify-content-center align-items-center">
+                        <strong style="color: #DD0000; text-align: center;">@Html.DisplayFor(model => model.ChiPhi)</strong>
+                    </div>
+                    <div class="border"></div>
+                    <div>
+                        <div class="btn">
+                            Mua ngay
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-4">
+            dadadd
+        </div>
+    </div>
+
+</div>
+
+
+
+

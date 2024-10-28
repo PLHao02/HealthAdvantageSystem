@@ -1,0 +1,166 @@
+﻿@model IEnumerable<WebPhongKham.Models.GOIKHAM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .card {
+        border: none;
+    }
+
+    .card-title {
+        cursor: pointer;
+        font-size: 0.9rem;
+        text-decoration: none;
+        font-weight: bold;
+        color: orange;
+    }
+
+        .card-title:hover {
+            color: orange;
+            text-decoration: underline;
+        }
+
+    .card-text {
+        color: #DD0000;
+        font-weight: bold;
+    }
+
+    .btn {
+        background-color: orangered;
+        border: none;
+        font-size: 0.9rem;
+    }
+
+        .btn:hover {
+            background-color: orangered;
+            color: white;
+        }
+
+    .allRows {
+        padding: 1.5rem;
+    }
+
+        .allRows:hover {
+            padding: 1.5rem;
+            box-shadow: 0px 0px 5px 5px #CCCCCC;
+        }
+
+    .text {
+        text-align: center;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+
+        .text:after {
+            content: "";
+            display: block;
+            border: 1px solid #fa7015;
+            width: 25%;
+            margin: 15px 0;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+    .list-group-item {
+        border: none;
+    }
+
+    .list-item {
+        background-color: #CCCCCC;
+    }
+    .name-item {
+        font-size: 0.9rem;
+        text-decoration: none;
+    }
+
+    .list-group-item:hover {
+        background-color: orange;
+        color: white;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+    .ct_1140 {
+        max-width: 1140px;
+    }
+
+    a:hover {
+        color: white;
+    }
+
+    .list-group-item {
+        background-color: #EEEEEE;
+    }
+</style>
+
+<div class="container ct_1140">
+    <div class="row">
+        <div class="col-3 p-5">
+            <div class="card border">
+                <ul class="list-group list-group-flush list-item">
+                    <li class="list-group-item">
+                        <a class="name-item">Dịch Vụ Y Tế Covid-19</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="name-item">Khám Tư Vấn Từ xa</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="name-item">Khám Sức Khỏe Dành Cho Nam</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="name-item">Khám Sức Khỏe Dành Cho Nữ</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="name-item">Khám Sức Khỏe Tổng Quát Dánh Cho Trẻ Em</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="name-item">Tầm Soát Ung Thư</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="name-item">Tẩy Trắng Răng</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="name-item">Xét Nghiệm Gen</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-9">
+            <div class="row">
+                <h2 class="text">Gói khám sức khỏe</h2>
+                @foreach (var item in Model)
+                {
+                    <div class="col-6 allRows">
+                        <div class="card" style="width: 26rem;">
+                            <a href="/ViewGoiKham/ChiTietGoiKham"><img src="~/Image/goikham/@item.Anh" class="card-img-top" alt="..."></a>
+                            <div class="card-body d-flex justify-content-between">
+                                <div>
+                                    <a class="card-title">@Html.DisplayFor(modelItem => item.TenGoiKham)</a>
+                                    <h5 class="card-text"> @Html.DisplayFor(modelItem => item.ChiPhi)</h5>
+                                </div>
+                                <div>
+                                    @using (Html.BeginForm("ChiTietGoiKham", "ViewGoiKham", new { id = item.GoiKhamID }))
+                                    {
+                                        <input type="submit" value="Xem chi tiết" class="btn btn-primary" />
+                                    }
+                                    <a href="/ShoppingCart/AddToCart/@item.GoiKhamID">
+                                        <i style="color:orangered; text-align: center" class="fa-solid fa-cart-plus"></i>
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+        </div>
+
+
+
+    </div>
+</div>
+
+

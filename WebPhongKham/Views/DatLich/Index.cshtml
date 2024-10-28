@@ -1,0 +1,77 @@
+﻿@model WebPhongKham.Models.DATLICH
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .login-box {
+        position: center;
+        width: 1300px;
+        padding: 40px;
+        background: #025b97;
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.6);
+        border-radius: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: white
+    }
+</style>
+<hr />
+<div class="container body-content">
+    <div class="login-box">
+        <h2 style="color:white"><center>Kê Đơn Thuốc</center></h2><hr />
+        <div>
+            <form>
+                <div class="row">
+                    <div class="col">
+                        <label class="form-label">Họ và tên:</label>
+                        <input type="text" class="form-control" name="hoten" placeholder="Phạm Văn A">
+                    </div>
+                </div><br />
+                <div class="row">
+                    <div class="col">
+                        <label class="form-label">Email:</label>
+                        <input type="email" class="form-control" name="email" placeholder="phamvana@gmail.com">
+                    </div>
+                </div><br />
+                <div class="row">
+                    <div class="col">
+                        <label class="form-label">Địa chỉ:</label>
+                        <input type="text" name="diachi" class="form-control">
+                    </div>
+                    <div class="col">
+                        <label class="form-label">Số điện thoại:</label>
+                        <input type="text" name="sdt" class="form-control">
+                    </div>
+                </div><br />
+                <div class="row">
+                    
+                    
+                </div> <br />
+                <div class="row">
+                    <div class="col">
+                        <label class="form-label">Ngày khám:</label>
+                        <input type="date" name="ngaykham" class="form-control">
+                    </div>
+                    <div class="col">
+                        <label class="form-label">Giờ khám:</label>
+                        <input type="time" name="giokham" class="form-control">
+                    </div>
+                </div>
+                <hr />
+                <div style="text-align: center; }">
+                    <button type="button" class="btn btn-danger" id="dangky">Đăng ký lịch khám</button>
+                    <div>
+                        <script language="javascript">
+                            var button = document.getElementById("dangky");
+                            button.onclick = function () {
+                                alert("Đăng ký lịch thành công");
+                            }
+                        </script>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

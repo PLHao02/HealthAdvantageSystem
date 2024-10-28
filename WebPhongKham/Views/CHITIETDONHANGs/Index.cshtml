@@ -1,0 +1,80 @@
+﻿@model IEnumerable<WebPhongKham.Models.CHITIETDONHANG>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style>
+    .form-control {
+        display: initial;
+        width: 20%;
+    }
+
+    .form-group {
+        display: flex;
+        justify-content: right;
+    }
+</style>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>ĐƠN HÀNG</h2>
+                        @using (Html.BeginForm("Index", "CHITIETDONHANGs", FormMethod.Get, new { @class = "form-inline" }))
+                        {
+                            <div class="form-group">
+                                <input type="Text" class="form-control" value="@ViewBag.Keyword" name="searchString" placeholder="Nhập tên khách hàng cần tìm">
+                                <input type="submit" class="btn btn-warning" value="Tìm">
+                            </div>
+                        }
+                        <table class="table">
+                            <tr>
+                                <th>
+                                    Tên khách hàng
+                                </th>
+                                <th>
+                                    Tên gói khám
+                                </th>
+                                <th>
+                                    Số lượng
+                                </th>
+                                <th>
+                                    Tổng tiền
+                                </th>
+                                <th></th>
+                            </tr>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DONHANG.TenKH)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.GOIKHAM.TenGoiKham)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SoLuongSP)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TongTien)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.CTDHID }) |
+                                        @Html.ActionLink("Details", "Details", new { id = item.CTDHID }) |
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.CTDHID })
+                                    </td>
+                                </tr>
+                            }
+                        </table>
+                        <p>
+                            @Html.ActionLink("Create New", "Create")
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

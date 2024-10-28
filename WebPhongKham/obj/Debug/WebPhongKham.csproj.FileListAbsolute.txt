@@ -1,0 +1,1016 @@
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\csc.exe
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\csi.exe
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\WebGrease.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\WebPhongKham.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\csc.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\csi.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\WebGrease.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\Webphongkham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\EntityFramework.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\EntityFramework.xml
+D:\Công nghệ phần mềm\Nâng cao\Project\Webphongkham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Đồ án CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\HỌC TẬP\CNPMNC\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\EntityFramework.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\EntityFramework.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\EntityFramework.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\EntityFramework.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Đồ án Công nghệ phần mềm nâng cao\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\EntityFramework.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\WebGrease.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\EntityFramework.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+E:\Tailieu-Nam3-HK2\Công nghệ phần mềm nâng cao\Đồ án cuối kì\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\EntityFramework.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\EntityFramework.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\HeThongPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\EntityFramework.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\EntityFramework.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Đồ án Công Nghệ Phần Mềm NC\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\WebPhongKham.dll.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\csc.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\csc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\csc.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\csi.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\csi.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\csi.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.AppContext.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Collections.Immutable.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Console.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Globalization.Calendars.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Net.Http.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Net.Sockets.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Reflection.Metadata.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.ValueTuple.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\vbc.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\vbc.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\vbc.rsp
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\roslyn\VBCSCompiler.exe.config
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Antlr3.Runtime.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\EntityFramework.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.Web.Infrastructure.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Newtonsoft.Json.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Helpers.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Mvc.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Optimization.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\WebGrease.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\EntityFramework.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\EntityFramework.SqlServer.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Helpers.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Mvc.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Optimization.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Deployment.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Web.WebPages.Razor.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Newtonsoft.Json.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Antlr3.Runtime.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.AssemblyReference.cache
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.csproj.CopyComplete
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\obj\Debug\WebPhongKham.pdb
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.Win32.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\netstandard.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.AppContext.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Collections.Concurrent.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Collections.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Collections.NonGeneric.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Collections.Specialized.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.ComponentModel.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.ComponentModel.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.ComponentModel.TypeConverter.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Console.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Data.Common.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.Contracts.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.Debug.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.Process.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.StackTrace.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.Tools.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.TraceSource.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Diagnostics.Tracing.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Drawing.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Dynamic.Runtime.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Globalization.Calendars.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Globalization.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Globalization.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.Compression.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.Compression.ZipFile.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.FileSystem.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.FileSystem.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.FileSystem.Watcher.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.IsolatedStorage.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.MemoryMappedFiles.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.Pipes.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Linq.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Linq.Expressions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Linq.Parallel.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Linq.Queryable.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.Http.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.NameResolution.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.NetworkInformation.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.Ping.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.Requests.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.Security.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.Sockets.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.WebHeaderCollection.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.WebSockets.Client.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Net.WebSockets.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.ObjectModel.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Reflection.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Reflection.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Reflection.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Resources.Reader.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Resources.ResourceManager.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Resources.Writer.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.Handles.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.InteropServices.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.Numerics.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.Serialization.Formatters.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.Serialization.Json.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.Serialization.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.Serialization.Xml.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.Claims.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.Cryptography.Algorithms.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.Cryptography.Csp.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.Cryptography.Encoding.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.Cryptography.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.Principal.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Security.SecureString.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Text.Encoding.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Text.Encoding.Extensions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Text.RegularExpressions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Threading.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Threading.Overlapped.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Threading.Tasks.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Threading.Tasks.Parallel.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Threading.Thread.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Threading.ThreadPool.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Threading.Timer.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.ValueTuple.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Xml.ReaderWriter.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Xml.XDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Xml.XmlDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Xml.XmlSerializer.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Xml.XPath.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Xml.XPath.XDocument.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\BraintreeHttp-Dotnet.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.Extensions.Primitives.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\PayPalCoreSDK.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Source.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Buffers.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Memory.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Numerics.Vectors.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\Microsoft.Extensions.Primitives.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Buffers.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Memory.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Numerics.Vectors.xml
+D:\Công nghệ phần mềm\Nâng cao\HeThongPhongKham\New folder\WebPhongKham\WebPhongKham\bin\System.Runtime.CompilerServices.Unsafe.xml
